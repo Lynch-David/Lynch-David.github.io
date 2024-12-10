@@ -1207,8 +1207,9 @@ footer {
 .image-div {
     width: 50%;
     height: 100%;
-    padding-top: 70px;
-    padding-left: 10px
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 30px;
 }
 
 .image-div img {
